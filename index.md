@@ -19,7 +19,7 @@ With that out of the way, do you think you are up to the challenge of helping us
 
 If you would like, also head over to the Angory Tom Discord Server!
 
-[Join us on Discord!](/Discord-Logo+Wordmark-Color.png)
+![Join us on Discord!](/Discord-Logo+Wordmark-Color.png)
 
 
 
