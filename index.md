@@ -17,7 +17,9 @@ We're a group of people from the Angory Tom Discord that develop the TomBot! Tom
 
 With that out of the way, do you think you are up to the challenge of helping us? If so, please email tombotsuggestions@gmail.com to get access to our Private Developer Server & Access to view our Code!
 
-If you would like, also head over to the Angory Tom Discord Server at: discord.me/angory-tom
+If you would like, also head over to the Angory Tom Discord Server!
+
+[Join us on Discord!](/Discord-Logo+Wordmark-Color.png)
 
 
 
