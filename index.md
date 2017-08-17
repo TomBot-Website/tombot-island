@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+## Welcome to TomBot Island!
 
-You can use the [editor on GitHub](https://github.com/TomBot-Website/tombot-island/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+We're a group of people from the Angory Tom Discord that develop the TomBot! TomBot is a bot that we ~~enslave~~ develop to make peoples lives easier on TomCord! We're always welcome to some new members! If you'd like to join the team, just look for the link on the bottom of this page!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Our Team
+- NCPlayz - The creator of TomBot. NC came up with the idea, and is the Lead Developer.
+- Darthmorf - "Human" that assists with the Devlopment of the bot.
+- Connor - Guy that helps out every once and a while. Squashes one bug, but creates 2 more.
+- Hannie - Angory Tom Moderator, mainly here for moral Support
+- Akhawais - Real devleoper, who is a cool dude. Also a Angory Tom Moderator
+- Dan - Angory Tom Moderator
+- Jon - Angory Tom Moderator
+- AngMod - Angory Tom Moderator. I got lazy, ok?
+- JmanK - Angory Tom Moderator, and the creator of Daily Doggo
 
-### Markdown
+### Links
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+With that out of the way, do you think you are up to the challenge of helping us? If so, please email tombotsuggestions@gmail.com to get access to our Private Developer Server & Access to view our Code!
 
-```markdown
-Syntax highlighted code block
+If you would like, also head over to the Angory Tom Discord Server at: discord.me/angory-tom
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/TomBot-Website/tombot-island/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
